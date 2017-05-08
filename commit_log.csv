@@ -1,0 +1,423 @@
+revision,author,date,comment line count,comment
+1551925,Thomas,2015-11-27 16:57:44,1,['Renamed folder to the correct name']
+1551575,Thomas,2015-11-27 09:46:32,1,['Removed unused webview.plan.management and webview_plan_management properties']
+1551569,Vincent,2015-11-27 09:38:09,1,['enable all clients']
+1551558,Thomas,2015-11-27 09:13:26,1,['Chnaged jira url to htps']
+1551504,/OU=Domain Control Validated/CN=svn.company.net,2015-11-27 07:05:41,1,['[gradle-release] prepare for next development iteration']
+1551486,Vincent,2015-11-27 06:10:10,1,['SFR-108 : preparing release for SFR']
+1551485,Vincent,2015-11-27 06:06:30,1,['SFR-108 : 1.buddy sync removed from settings. 2. italics text corrected.']
+1551375,Vincent,2015-11-26 15:01:51,1,['SFR-108 : androidM related strings added.']
+1551347,Vincent,2015-11-26 14:35:32,1,['SFR-108 : removed unnecessary layouts which were copy-pasted from amx. They were enabling help_footer']
+1551334,Vincent,2015-11-26 14:20:12,1,['SFR-108 : using WL base & snc urls']
+1551332,Vincent,2015-11-26 14:17:48,4,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'contact-sync enabled correctly.', '']"
+1551313,Vincent,2015-11-26 13:58:15,4,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'contact-sync disabled. It was not a correct way.', '']"
+1551307,Thomas,2015-11-26 13:48:29,1,['Removed AMX specific layouts.']
+1551294,Vincent,2015-11-26 13:30:16,4,"['SFR-108 : Help Foother can be configured by enable_help_footer.', 'for SFR it is disabled.', '', '']"
+1551249,Vincent,2015-11-26 12:16:06,5,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'contact-sync enabled.', '', '']"
+1551248,Vincent,2015-11-26 12:15:26,5,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'reverted --> actionbar color & background', '', '']"
+1551105,Thomas,2015-11-26 09:17:08,1,['FTRPC-393: Frontier - Still receiving push notification even when Notifications is off from app settings.']
+1551061,Vincent,2015-11-26 07:33:33,3,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'actionbar color & background']"
+1550863,Thomas,2015-11-25 16:42:06,1,"[""Changed cloudsdkVersion to '1.0.22.10'""]"
+1550724,Thomas,2015-11-25 14:17:42,1,['Changed jira url to https']
+1550591,Thomas,2015-11-25 11:29:15,3,"['Reverted back:', 'FTRPC-500: Frontier Android || Inconsistencey in My Activity screen', 'Client used systemAttribute name=""Creation-Date"" instead of versionCreated as version created.']"
+1550580,Thomas,2015-11-25 11:15:27,1,['Updated splashscreen to re use grphc_pcloud_logo image instead of splash_logo']
+1550503,Thomas,2015-11-25 09:26:22,1,['Changed splash screen as requested']
+1550097,Vincent,2015-11-24 14:41:53,3,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', 'three dots. ""...""']"
+1550089,Thomas,2015-11-24 14:28:19,2,"['FTRPC-500: Frontier Android || Inconsistencey in My Activity screen', 'Client used systemAttribute name=""Creation-Date"" instead of versionCreated as version created.']"
+1550060,Vincent,2015-11-24 13:58:25,4,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', '1) strings-array fixed', '2) ""AMX Cloud"" replaced by ""SFR Cloud""']"
+1550046,Vincent,2015-11-24 13:42:26,4,"['SFR-108 : Create bilingual French/English translated Android application for SFR', '-----------', '1) added text & assets from ux branch', '2) fixed compilation errors.']"
+1549398,Thomas,2015-11-23 16:32:45,1,['Updated jira port number to 8443']
+1549355,/OU=Domain Control Validated/CN=svn.company.net,2015-11-23 15:34:21,1,['[gradle-release] prepare for next development iteration']
+1549331,Thomas,2015-11-23 15:20:49,1,['FTRPC-497: Frontier Android || Difference in the branding icon in push notifications']
+1549294,Jimmy,2015-11-23 15:02:18,2,"['New contacts nab version', 'Homescreen update']"
+1549111,Thomas,2015-11-23 11:46:06,1,['Fix crash on the boot complete']
+1548946,Vincent,2015-11-23 05:50:12,5,"['FTRPC-304 : Frontier - Default Backups Settings to be ON', '---------------', 'instant upload was enabled for all data classes by vivek.', 'Instant upload only for Contacts and Photos will be ON.', '']"
+1548632,Thomas,2015-11-20 16:36:17,1,['FTRPC-309: Frontier - Report Abuse is ON']
+1548595,Thomas,2015-11-20 15:43:36,1,['Put dontwarn for android.provider.** to fix snapshot build']
+1548398,Thomas,2015-11-20 13:06:04,1,['Enabled com.android.support:support-v4-internal_impl']
+1548384,Thomas,2015-11-20 12:57:08,1,['FTRPC-381: Add Android M Support to Handset Client']
+1548364,Thomas,2015-11-20 12:42:14,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copying resouces from att-m branch']"
+1548358,Thomas,2015-11-20 12:40:31,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copying resources from att-m branch']"
+1548357,Thomas,2015-11-20 12:39:03,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copying resources from att-m branch']"
+1548355,Thomas,2015-11-20 12:37:26,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copying resources from att-m']"
+1548352,Thomas,2015-11-20 12:35:47,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copying resources from att-m branch']"
+1548350,Thomas,2015-11-20 12:33:51,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Copy resources from att-m branch']"
+1548342,Thomas,2015-11-20 12:28:01,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Moving ui/permission classes from at-m branch']"
+1548336,Thomas,2015-11-20 12:26:32,2,"['FTRPC-381: Add Android M Support to Handset Client', 'Moving model/permission classes from att-m branch']"
+1547894,/OU=Domain Control Validated/CN=svn.company.net,2015-11-19 16:41:58,1,['[gradle-release] prepare for next development iteration']
+1547749,Freddie,2015-11-19 13:53:23,2,"['- fix a mime-type issue when uploading a file', '- use the latest Cloud SDK 1.0.8 branch version to fix issues with upload not resuming + send the Creation-Date attribute at DV-Attach phase (if provided)']"
+1547748,Jimmy,2015-11-19 13:51:15,1,['Enabled all modules']
+1547738,Jimmy,2015-11-19 13:35:41,1,['FTRPC-191 - Removed call logs and messages from home screen rendering']
+1547683,Jimmy,2015-11-19 12:26:49,1,['Homescreen merge from at&t branch']
+1547493,Vincent,2015-11-19 06:31:05,4,"['FTRPC-304 : Frontier - Default Backups Settings to be ON', '---------------', '+Instant upload for Contacts and Photos will be ON.', '']"
+1546917,Vincent,2015-11-18 09:06:34,3,"['FTRPC-336 : Frontier Android || TV beaming option does not appear inspite of cast receivers available', '-----------', 'chrome_cast_support_feature= true. enabled on Frontier.']"
+1546493,/OU=Domain Control Validated/CN=svn.company.net,2015-11-17 15:38:50,1,['[gradle-release] prepare for next development iteration']
+1546460,Vincent,2015-11-17 14:56:49,3,"['FTRPC-416 : [FTR Android Client]Android Prod Build is pointed to API server', '-------------', 'reverted changes of Revision: 1545628']"
+1546414,Thomas,2015-11-17 14:09:45,7,"['Merged from android-15.2-solutions-att-m', 'PHONE-2017: PHONE-2019: Android - Timeline Search in Month Folder', 'Merged from trunk: ANDINTL-3373: 15.2 | 15.2.30 | PC Home Screen | Search functionality is not working within the Timeline Month Folders [from revision 1543798]', 'PHONE-2061: Phone 2.0 - Favorited Documents is not showing up under favorite tile. [from revision 1544784]', 'PHONE-2082: Phone - Cannot unfav a doc from documents view', 'Merged from trunk: ANDINTL-3420 Ability to unfavorite files on mobile [from revision 1545058]', 'Fixed FTRPC-410: Frontier - Favorited Documents is not showing up under favorite tile.']"
+1545714,/OU=Domain Control Validated/CN=svn.company.net,2015-11-16 15:35:27,1,['[gradle-release] prepare for next development iteration']
+1545674,Jimmy,2015-11-16 14:47:41,1,['Reverted to older cloud sdk']
+1545670,Jimmy,2015-11-16 14:40:00,1,['Reverted to older cloud sdk']
+1545663,Jimmy,2015-11-16 14:35:39,1,['Changed minSDK']
+1545657,Jimmy,2015-11-16 14:30:47,1,['Dropped SDK version']
+1545652,Jimmy,2015-11-16 14:26:50,1,['UPdated']
+1545628,Jimmy,2015-11-16 13:45:04,1,['Added sfr module']
+1544560,Dave,2015-11-12 20:10:20,1,['fix the build for the jacoco agent warnings']
+1544422,Jimmy,2015-11-12 15:48:11,1,['FRT only']
+1544421,Jimmy,2015-11-12 15:47:49,1,['Fixed unit test']
+1544404,Jimmy,2015-11-12 15:31:13,1,['Fixed unit test']
+1544362,Jimmy,2015-11-12 14:37:08,1,['Modified test']
+1544360,Jimmy,2015-11-12 14:31:35,1,['Modified test']
+1544350,Jimmy,2015-11-12 14:27:36,1,['Modified app Target version']
+1544342,Jimmy,2015-11-12 14:16:04,1,['FTRPC-119']
+1544339,Jimmy,2015-11-12 14:11:02,1,['FTRPC-119']
+1544282,Thomas,2015-11-12 11:44:34,3,"['Merged from android-15.2-solutions-att-m', 'PHONE-2017: PHONE-2019: Android - Timeline Search in Month Folder', 'Merged from trunk: ANDINTL-3373: 15.2 | 15.2.30 | PC Home Screen | Search functionality is not working within the Timeline Month Folders [from revision 1543798]']"
+1544253,Thomas,2015-11-12 10:32:06,2,"['Merged from android-15.2-solutions-att-m', 'PHONE-2008: Phone 2.0 - Photos/ Songs/ Documents fonts should be bold on home screen. [from revision 1543831]']"
+1544250,Thomas,2015-11-12 10:27:58,5,"['Merged from android-15.2-solutions-att-m', 'PHONE-2035: Android M - After deleting a photo from the album, photos count does not match the number displayed on the albums page', 'Merged: ANDINTL-3667: 15.3:Album count is not getting updated after we delete all photos [from revision 1544231]Merged from android-15.2-solutions-att-m', 'PHONE-2035: Android M - After deleting a photo from the album, photos count does not match the number displayed on the albums page', 'Merged: ANDINTL-3667: 15.3:Album count is not getting updated after we delete all photos [from revision 1544231]']"
+1541334,Vincent,2015-11-05 16:31:34,5,"['FTRPC-337 : Frontier - Sim Contacts Import - DisabledFTRPC-', '---------------', 'frontier configured with enable_sim_contacts_import = false.', 'default value of this varibale is true for all projects.', '']"
+1540927,Vincent,2015-11-04 20:47:04,4,"['FTRPC-304 : Frontier - Default Backups Settings to be ON', '---------------', 'configured with enable_select_all_data_classes_initially = true', 'default value of this varibale is false for all projects.']"
+1540926,Vincent,2015-11-04 20:34:30,5,"['FTRPC-332 : Content anywhere crashes', '----------------', 'Seems like, it is a device specific issue.', 'There is no ""Content Anywhere"" account created in [android device --> settings --> accounts --> Content Anywhere].', 'I have fixed ArrayIndexoutOfBounds issue. No_Sync issue is still there.']"
+1540834,Vincent,2015-11-04 16:37:55,3,"['FTRPC-309 : Frontier - Report Abuse is ON', '----------------', 'report abuse is disabled for Frontier android client.']"
+1540809,Vincent,2015-11-04 16:15:14,3,"['FTRPC-303: Frontier - Invitation is ON', '--------------', 'invitation is now disabled on Frontier android.']"
+1540172,Jimmy,2015-11-03 14:59:39,1,['Enabled all clients']
+1540168,/OU=Domain Control Validated/CN=svn.company.net,2015-11-03 14:50:34,1,['[gradle-release] prepare for next development iteration']
+1540148,Jimmy,2015-11-03 14:35:14,1,['Frontier']
+1539956,Jimmy,2015-11-03 10:32:49,1,['Added carriage return']
+1539933,Thomas,2015-11-03 09:59:13,1,['Return imports']
+1539930,Thomas,2015-11-03 09:57:23,1,['PHONE-1855: Phone - Android Prod Cannot Switch Account']
+1539664,ajon0002,2015-11-02 15:15:35,1,"['add string widget_header_update_text, containing generic update message for HomeScreenWidget ViewFlipper TextView.']"
+1539662,ajon0002,2015-11-02 15:13:19,6,"['Add private List<Count> countsDelta.', 'Add constructor with Matrix parameter.', 'Add getter and setter for countsDelta.', '', 'New constructor calls existing constructor, plus populates countsDelta.', 'TODO is to hold counts delta per Count.type, instead of in a List, as this is last stop for delta before passing to Intent, which must be as Strings, so do the iterating here.']"
+1539659,ajon0002,2015-11-02 15:09:41,3,"['Add private List<Count> countsDelta.', 'Populated from CountsMerge.delta on Matrix.updateMediaType call.', 'Holds delta on Counts between this matrix and previous matrix.']"
+1539656,ajon0002,2015-11-02 15:06:09,4,"['Add logic onUpdate such that visibility of placeholder logo and viewflipper are toggled.', 'ViewFlipper flips every 5 seconds between logo and update message (""New content..."")/', 'After 60s visibility of the VF and placeholder logo are reversed, stopping the animation.', 'TODO: switch generic update message to ""X new photos, Y new files..."" from Matrix delta.']"
+1539654,ajon0002,2015-11-02 15:02:56,2,"['Add DELTA contstants such that Intent sent to HomeScreenWidget can hold delta counts for widet update message.', 'These are not currently used.']"
+1539651,ajon0002,2015-11-02 15:00:59,1,['Make HomeScreenWidget vertically resizeable.']
+1539648,ajon0002,2015-11-02 15:00:06,2,"['Add placeholder ImageView, containing operator logo and invisible ViewFlipper.', 'VF containts logo and TextView for update msg. Visibility toggled on update.']"
+1539645,ajon0002,2015-11-02 14:58:00,2,"['Reinstate sendBroadcast, called in notifyOnUpdate.', 'Initialises ACTION_UPDATE_COUNT intent and sends broadcast for HomeScreenWidget.']"
+1539640,ajon0002,2015-11-02 14:55:02,3,"['Add private ArrayList<Count> delta to store difference between incoming and in memory counts.', 'Add setter updateDelta, called in append method.', 'Add getter for delta.']"
+1539452,Thomas,2015-11-02 11:38:15,1,['AMXPC-22: Incorporate new In-App Purchase Flows into Titans Android 15.2 client for Titans']
+1539443,Thomas,2015-11-02 11:32:59,1,['Changed to the frontier prod endpoints']
+1539019,Thomas,2015-10-30 16:07:02,1,['Disabled buddy sync for amx cient']
+1538990,Thomas,2015-10-30 15:30:32,1,['Removed default settings']
+1538828,Jimmy,2015-10-30 12:22:31,1,['Homescreen merge']
+1538795,Thomas,2015-10-30 11:13:31,1,['Set up dev and prod to amxpc labs']
+1538793,Thomas,2015-10-30 11:09:24,1,['Set up qa to amxpc-api']
+1538454,Thomas,2015-10-29 15:24:47,2,"[""Updated cloudsdkVersion to '1.0.8.25'"", 'PHONE-1759: Error ""WiFi Connection is Lost"" during initial backup while connected to WiFi']"
+1538444,Thomas,2015-10-29 15:13:29,1,['FTRPC-160: Frontier Android || Favorite icon is not shown for some of the PDF files']
+1538425,Thomas,2015-10-29 14:49:23,1,['Fixed typo']
+1538416,Thomas,2015-10-29 14:38:14,1,['Fixed typo']
+1538410,Thomas,2015-10-29 14:30:41,2,"['FTRPC-153: Frontier Android Tablet || User able to create dupliacte albums with same name', 'Merged from main line: Fixed ANDINTL-3815 User is able to create two or more albums with the same name.']"
+1538393,Thomas,2015-10-29 13:55:08,1,['FTRPC-201: Frontier Android || Contextual menu options positions changing when selecting the files']
+1538367,Thomas,2015-10-29 13:12:13,1,['Remove empty dirs']
+1538359,Thomas,2015-10-29 13:03:24,1,"['FTRPC-152: Frontier Android Tablet || ""Available Offline"" is been displayed when user multi select time line photos(select Monts)']"
+1538288,Thomas,2015-10-29 11:30:26,1,['Removed qa_wl builds']
+1538283,Thomas,2015-10-29 11:25:18,1,"[""FTRPC-133: Frontier Android || User doesn't recieves a notification when a a file is shared with them""]"
+1538264,Jimmy,2015-10-29 10:59:57,1,['BTPC-70']
+1538234,Jimmy,2015-10-29 10:05:43,1,['FTRPC-191']
+1538198,Thomas,2015-10-29 08:46:06,1,['Moved id splash_parent to ids.xml']
+1537920,Thomas,2015-10-28 15:10:05,2,"['FTRPC-55: Incorporate new Password Flows into Frontier Android 15.2 client for Frontier', 'Missed file']"
+1537919,Thomas,2015-10-28 15:07:07,1,['Uopdated ignores']
+1537915,Thomas,2015-10-28 15:02:17,1,['FTRPC-55: Incorporate new Password Flows into Frontier Android 15.2 client for Frontier']
+1537911,Thomas,2015-10-28 14:57:51,1,['Added ignores']
+1537697,Jimmy,2015-10-28 09:36:03,1,['Removed client-att and mct-att']
+1537528,Vincent,2015-10-27 18:12:29,1,"['FTRPC-199 : Frontier Android || Instead of ""All Files"", ""Files"" is displaying in Hamburger menu']"
+1537485,Jimmy,2015-10-27 16:58:28,1,['Removed client-att and mct-att']
+1537460,Jimmy,2015-10-27 16:28:16,1,['Enabled spanishclaros and telcel clients']
+1537454,Jimmy,2015-10-27 16:04:20,1,['Added telcel folder']
+1537452,Jimmy,2015-10-27 16:01:15,1,['Added spanishclaros folder']
+1537319,Vincent,2015-10-27 13:15:19,2,"['FTRPC-159 : Frontier Android || ""Favorite"" is displayed when user selects Folders from \'All Files\' section', '']"
+1536385,Jimmy,2015-10-23 17:03:31,1,['Lint fix']
+1536330,Jimmy,2015-10-23 16:07:36,1,['Lint fix']
+1536312,Jimmy,2015-10-23 15:53:51,1,['Legacy app uninstall']
+1536311,Jimmy,2015-10-23 15:53:31,1,['Legacy app uninstall']
+1536126,Jimmy,2015-10-23 13:40:49,1,['Legacy app uninstall']
+1536118,Jimmy,2015-10-23 13:30:01,1,['Legacy app uninstall']
+1536037,Jimmy,2015-10-23 11:57:54,1,['Lint fix']
+1536002,Jimmy,2015-10-23 10:59:01,1,['Reverted to prod urls']
+1535957,Jimmy,2015-10-23 10:00:03,1,['Added incompatibilty fragment']
+1535594,Jimmy,2015-10-22 14:42:26,1,['Lint fix']
+1535593,Jimmy,2015-10-22 14:40:39,1,['Added incpmpatible legacy client parameter']
+1535587,Jimmy,2015-10-22 14:35:31,1,['Lint fix']
+1535571,Jimmy,2015-10-22 14:23:01,1,['Removed unused resources']
+1535537,Jimmy,2015-10-22 14:08:58,1,['lint fix']
+1535523,Jimmy,2015-10-22 13:52:30,1,['Enabled BT module']
+1535517,Jimmy,2015-10-22 13:42:47,1,['BT Addition']
+1535516,Jimmy,2015-10-22 13:36:58,1,['Widget colors']
+1535453,Jimmy,2015-10-22 11:26:04,1,['Widget']
+1535452,Jimmy,2015-10-22 11:25:35,1,['Widget']
+1535451,Jimmy,2015-10-22 11:25:18,1,['Widget']
+1533128,Thomas,2015-10-16 11:55:48,2,"['Merge from android-15.2-solutions-att', 'PHONE-1409: Phone - Scheduled Maintenance Not Working as Expected']"
+1533115,Thomas,2015-10-16 11:32:58,1,['FTRPC-117: Frontier Android Handset || App icon is not matching as per Branding parameters']
+1533097,Thomas,2015-10-16 11:13:18,1,['Added AMXPC jira project to jira report']
+1533092,Thomas,2015-10-16 11:04:56,1,['Updated build files to support Jira reports per clients']
+1532755,Thomas,2015-10-15 16:50:56,2,"['FTRPC-118: Frontier Android Handset || About screen is loading forever', '']"
+1532018,Jimmy,2015-10-14 14:51:25,1,['Widget update']
+1532015,Jimmy,2015-10-14 14:49:17,1,['Widget update']
+1531912,Jimmy,2015-10-14 12:50:27,1,['Re enabled client modules']
+1531903,Jimmy,2015-10-14 12:40:19,1,['Spike for app removal']
+1531479,Thomas,2015-10-13 15:54:58,4,"['Merge from android-15.2-solutions-att', 'PHONE-1665: Phone Customer Reported Issue - Carousel Issues on Tablet', 'Added titles for wizard', '']"
+1530186,/OU=Domain Control Validated/CN=svn.company.net,2015-10-09 14:34:54,1,['[gradle-release] prepare for next development iteration']
+1530155,Thomas,2015-10-09 13:58:14,1,['Bumped version to 15.2.30.18']
+1530104,Jimmy,2015-10-09 12:52:44,1,['Disabled at&t module']
+1530087,Jimmy,2015-10-09 12:30:40,1,['Lint fix']
+1530077,Jimmy,2015-10-09 12:10:54,1,['Added new homescreen']
+1530022,Thomas,2015-10-09 11:17:08,1,['Added lint ignores']
+1530019,Thomas,2015-10-09 11:09:59,1,['Added lint ignores']
+1529976,Thomas,2015-10-09 10:13:54,1,['Updated strings']
+1529934,Thomas,2015-10-09 09:24:07,1,['Revert back some assets']
+1529923,Thomas,2015-10-09 09:06:45,1,"['Added qa and qa_wl build types, renamed app.']"
+1529916,Thomas,2015-10-09 08:55:33,1,['Updated assets']
+1529913,Thomas,2015-10-09 08:53:15,1,['Removed unused resources']
+1529617,Thomas,2015-10-08 14:55:59,2,"['Set prod end point:', 'http://confluence.company.net:8085/display/PRO/Frontier+PC+PROD']"
+1529611,Thomas,2015-10-08 14:49:55,1,['Enabled client-frt client']
+1529597,Thomas,2015-10-08 14:38:16,1,['Copy to android-15.2-solutions']
+1528989,Thomas,2015-10-07 15:19:21,1,['PHONE-1420: CLONE - [15.2]The first file thumbnail is not dispalyed properly in landscape mode']
+1528947,Thomas,2015-10-07 14:44:23,1,['Updated more strings']
+1528925,Thomas,2015-10-07 14:23:29,1,['Simplified app versioning']
+1528923,Thomas,2015-10-07 14:19:38,1,['PHONE-1416: ATT Android || Screen blinks twice when user taps on App icon']
+1528922,Thomas,2015-10-07 14:19:14,1,['PHONE-1416: ATT Android || Screen blinks twice when user taps on App icon']
+1528797,Thomas,2015-10-07 11:06:28,1,['Remove att permission from manifest']
+1528782,Thomas,2015-10-07 10:45:54,2,"['Merged from trunk:', 'ANDINTL-3163 - enable the application to be installed on top of Ready 2 Go and Verizon cloud']"
+1528452,Thomas,2015-10-06 16:15:27,1,['Enabled client-amx client']
+1528449,Thomas,2015-10-06 16:07:38,1,"['Fixed NPE for amx client, changed amx client name']"
+1528422,Thomas,2015-10-06 15:36:53,1,['Added ignores']
+1528416,Thomas,2015-10-06 15:28:51,1,['Implements HelpFragment.Callback']
+1528414,Thomas,2015-10-06 15:27:59,1,['Added help_fragment_icon.png']
+1528412,Thomas,2015-10-06 15:26:10,1,['Added help fragment colors']
+1528411,Thomas,2015-10-06 15:23:31,2,"['Merged from android-15.2-solutions-amx', 'Help CR: http://confluence.company.net:8085/display/CSE/Titans+Android+Help+CR [from revision 1520497]']"
+1528409,Thomas,2015-10-06 15:21:35,1,['Merge fragment_help.xml from amx branch']
+1528404,Thomas,2015-10-06 15:18:18,1,['Merge HelpFragment.java from amx branch']
+1528397,Thomas,2015-10-06 15:13:00,1,['Merged from android-15.2-solutions-amx branch']
+1527179,Thomas,2015-10-02 16:23:05,2,"['Merged from android-15.2-solutions-att', 'PHONE-1415: CLONE - [15.2][PC] Screen rotates at some pages even though auto-rotation is OFF in device.']"
+1527029,Thomas,2015-10-02 13:24:26,2,"['Merged from android-15.2-solutions-att', 'PHONE-1529: ATT Android || The file which is downloading for Available offline, if canceled not playing even with wifi [from revision 1527022]']"
+1526939,Thomas,2015-10-02 10:15:40,2,"['Merged from android-15.2-solutions-att', 'PHONE-1342: Phone - Rename a Photo in an Album using the Web Returns Error Getting Info on Handset [from revision 1526937]']"
+1526558,Thomas,2015-10-01 13:25:23,1,['PHONE-1377: Phone 2.0 - All files - Folder - Get info - Failure']
+1526549,Jimmy,2015-10-01 13:18:27,1,['Added lint suppress']
+1526501,Jimmy,2015-10-01 12:29:00,1,['Added handling for R2G']
+1525171,Jimmy,2015-09-29 14:08:40,1,['Added handling for R2G']
+1525124,Jimmy,2015-09-29 12:49:38,1,['Added settings as a main activity to launch']
+1525067,Jimmy,2015-09-29 11:55:33,1,['Lint fix']
+1525056,Jimmy,2015-09-29 11:50:00,1,['Added custom permission to receiver']
+1525043,Jimmy,2015-09-29 11:36:56,1,['Lint fix']
+1525032,Jimmy,2015-09-29 11:31:00,1,['Added r2g permission']
+1525020,Jimmy,2015-09-29 11:22:15,1,['Added R2G config']
+1524333,Jimmy,2015-09-28 11:47:57,1,['Modified broadcast receiver for R2G']
+1523786,Thomas,2015-09-25 14:35:53,1,['PHONE-1163: Phone 2.0 - Music player in lock screen view has a cut off.']
+1523768,Jimmy,2015-09-25 14:15:11,1,['Initial addition for R2G classes']
+1523643,Jimmy,2015-09-25 11:35:42,1,['CR023: Phone globe for the mobile client splash screen']
+1521833,Thomas,2015-09-22 14:23:03,1,['Fixed libpng warning: iCCP: Not recognizing known sRGB profile that has been edited']
+1520473,Jimmy,2015-09-18 14:08:32,1,['Auth failure error codes']
+1520031,Thomas,2015-09-17 15:02:43,1,['PHONE-1388: Att Locker - AMZ Fire - Share by Me - Manage Share: Crashes Locker']
+1519600,Thomas,2015-09-16 15:05:40,1,['Removed &amp;#160;']
+1519555,Thomas,2015-09-16 14:19:18,1,['PHONE-1391: Phone 2.0 - unexpected notification while downloading on low battery.']
+1519330,Jimmy,2015-09-16 08:42:42,1,['PHONE-1318']
+1517160,/OU=Domain Control Validated/CN=svn.company.net,2015-09-10 17:34:36,1,['[gradle-release] prepare for next development iteration']
+1516858,Jimmy,2015-09-10 11:03:36,1,['PHONE-1318']
+1516801,Jimmy,2015-09-10 09:49:48,1,['Seperated strings for shares from main strings files']
+1516395,/OU=Domain Control Validated/CN=svn.company.net,2015-09-09 15:10:46,1,['[gradle-release] prepare for next development iteration']
+1516364,Jimmy,2015-09-09 14:45:52,1,['Remove report abusive content']
+1516286,/OU=Domain Control Validated/CN=svn.company.net,2015-09-09 13:23:06,1,['[gradle-release] prepare for next development iteration']
+1516221,Thomas,2015-09-09 11:37:11,2,"['PHONE-1227: ATT Android|| Observed ""File too large to upload"" popup while taking the picture.', 'Added extra check if we have that size or not.']"
+1516206,Thomas,2015-09-09 11:18:13,1,['PHONE-1316: ATT Android || Available offline icon is hardly visible in documents screen']
+1516182,Thomas,2015-09-09 10:57:24,1,['PHONE-1125: ATT Android || Available offline is displaying only when we select min 2 files. That to this feature is integrated only in docs and no where else']
+1516140,Thomas,2015-09-09 09:54:23,1,['Added back empty sliding_menu_header']
+1516124,Jimmy,2015-09-09 09:35:37,1,['String updates']
+1516078,Jimmy,2015-09-09 08:36:04,1,['String updates']
+1515856,Thomas,2015-09-08 16:52:10,1,['Update icons']
+1515669,Thomas,2015-09-08 13:00:44,1,['PHONE-1259: Phone Customer Reported Issue - App Icon is square rather than rounded corners']
+1515598,Thomas,2015-09-08 11:12:36,1,['Increased swipe time to 5 sec']
+1515597,Thomas,2015-09-08 11:09:10,1,['PHONE-1277: Phone Locker - Header Cut Off in Android Galaxy Tablet']
+1515550,Thomas,2015-09-08 09:46:51,1,['PHONE-1275: Android Galaxy Tablet - Image Carousel']
+1515469,Freddie,2015-09-07 18:02:26,2,"['PHONE-1174: Phone 2.0 - When both Upload and Download are in progress, if we cancel any one(either download or upload), both are getting cancelled.', 'Cancel only the target operation instead of canceling all operations.']"
+1515192,Freddie,2015-09-07 08:40:42,2,"['PHONE-1245: Phone || Files Upload is not resuming once connection is lost and regained', 'fix the way the Cloud SDK is integrated for the upload. Reported from trunk.']"
+1514885,/OU=Domain Control Validated/CN=svn.company.net,2015-09-04 15:28:55,1,['[gradle-release] prepare for next development iteration']
+1514854,Thomas,2015-09-04 14:45:09,1,['Fixed lint issue']
+1514848,Thomas,2015-09-04 14:35:07,1,['PHONE-1246: CR018 Carousel']
+1514769,Thomas,2015-09-04 12:36:03,1,['PHONE-1116: Phone 2.0 - Push notification icon Intermittently appear - Nexus 5.']
+1514659,Thomas,2015-09-04 10:33:11,1,['PHONE-1152: Phone 2.0 - Pop up message is displayed as creating music album when we are trying to creating photo album']
+1514632,Thomas,2015-09-04 09:24:09,1,"[""PHONE-1158: ATT Android || Inconsistence of 'Remove from Playlist' from contextual menu to title""]"
+1514422,Thomas,2015-09-03 16:43:11,1,['PHONE-1109: Phone 2.0 - Empty Pop up message is displayed when we tap on continue on Download paused Roaming detected screen.']
+1514088,Freddie,2015-09-03 10:11:46,2,"['PHONE-1018: Phone || Files download is not resuming once connection is lost and regained', 'extends to all I/O exceptions the pause of download operations, by using the latest Cloud SDK 1.0.8.18']"
+1511865,Freddie,2015-08-28 09:28:08,2,"['PHONE-1018: Phone || Files download is not resuming once connection is lost and regained', 'Finer detection of the manager to call (remote or local file manager) depending on the state of the work']"
+1511531,murari.krishnan,2015-08-27 15:18:55,1,['fixed PHONE-1104 No-Videos message is displayed under photos tab.']
+1511263,Thomas,2015-08-27 09:07:17,1,['Removed unused -keepclassmembers']
+1510630,Freddie,2015-08-26 10:51:19,2,"['ANDINTL-3702: 15.2-PC-login pop up is displayed when device is kept idle for some time', '']"
+1510560,Thomas,2015-08-26 09:41:24,1,['Merging 15.2 changes']
+1510491,Freddie,2015-08-26 08:12:56,2,"['PHONE-1018: Phone || Files downloading is not resuming once the airplane mode is turned ON and OFF', '']"
+1510251,Nicky,2015-08-25 17:19:59,5,"['PHONE-1014', 'Phone 2.0 - Unexpected response on the progress bar while restoring.', 'ANDINTL-3366', '15.2- Warning message is displayed when we disabled wi-fi during photo upload,upload is not resuming when wi-fi is back', '']"
+1510206,Thomas,2015-08-25 16:28:54,1,['PHONE-1039: Phone 2.0 - Push notification icon is not matching on all devices.']
+1509790,Thomas,2015-08-25 09:34:01,1,['PHONE-995: ATT Android || Keypad is in visible state when we click on hamburger menu from the help screen search field']
+1509257,/OU=Domain Control Validated/CN=svn.company.net,2015-08-24 11:14:13,1,['[gradle-release] prepare for next development iteration']
+1509222,Jimmy,2015-08-24 10:37:35,1,['PHONE-363']
+1508948,Jimmy,2015-08-21 16:50:38,1,['PHONE-434']
+1508779,Jimmy,2015-08-21 14:07:58,1,['PHONE-996']
+1508685,Jimmy,2015-08-21 12:12:20,1,['PHONE-996']
+1508629,Jimmy,2015-08-21 11:16:41,1,['PHONE-854 - Changed sender ID']
+1508188,/OU=Domain Control Validated/CN=svn.company.net,2015-08-20 15:06:07,1,['[gradle-release] prepare for next development iteration']
+1508164,Jimmy,2015-08-20 14:41:27,1,['TypographyDashes fix']
+1508161,Jimmy,2015-08-20 14:35:13,1,['TypographyDashes fix']
+1508151,Jimmy,2015-08-20 14:28:08,1,['String updates']
+1508145,Jimmy,2015-08-20 14:19:26,1,['PHONE-908']
+1508044,Thomas,2015-08-20 12:05:30,1,['PHONE-812: CLONE - Phone - Handset - Phone Icon on What to Back up screen']
+1508020,Thomas,2015-08-20 11:49:01,1,"['PHONE-434: PHONE 2.0 - Slide menu title is ""Personal Cloud""']"
+1507926,Thomas,2015-08-20 09:42:08,1,"['PHONE-726: Phone 2.0 - Message displayed on tapping of ""Locker Backup Paused Roaming detected..."" notification is not as expected.']"
+1507915,Thomas,2015-08-20 09:32:45,1,"['PHONE-916: Phone 2.0 - ""Get Start"" Button string is not clear - HTC desire 610.']"
+1507705,Thomas,2015-08-19 16:54:40,1,['PHONE-957: Phone - About Screen Copyright']
+1507637,Thomas,2015-08-19 15:30:13,1,['PHONE-879: Phone 2.0 - First Time User Login Flow Every Time']
+1507417,Thomas,2015-08-19 10:47:31,1,['Fixed: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited']
+1507415,Thomas,2015-08-19 10:46:16,2,"['Merged: JIODINT-1329 --Push Not Received After and hour even though the device is registered with', 'PHONE-854: CLONE - Push Notification are not Recieved Next Day']"
+1507409,Thomas,2015-08-19 10:36:15,2,"['Merged: JIODINT-1329 --Push Not Received After and hour even though the device is registered with', 'PHONE-854: CLONE - Push Notification are not Recieved Next Day']"
+1506528,Thomas,2015-08-17 16:22:32,1,"['PHONE-725: Phone 2.0 - ""Upload paused. Roaming detected."" Notification is not displayed on device notification tray when we download any content when user is in roaming data and WiFi is off.']"
+1506431,Thomas,2015-08-17 13:36:03,1,['PHONE-807: Phone 2.0 - Repeat option in the Music Player is not working as expected']
+1505785,Jimmy,2015-08-14 13:54:38,1,['PHONE-879 - Added internal preference flag']
+1505761,Jimmy,2015-08-14 13:17:45,1,['PHONE-591']
+1505731,Jimmy,2015-08-14 12:44:07,1,['Modified code']
+1505616,Jimmy,2015-08-14 09:38:08,1,['Normalising code']
+1505141,/OU=Domain Control Validated/CN=svn.company.net,2015-08-13 14:59:27,1,['[gradle-release] prepare for next development iteration']
+1505095,Nicky,2015-08-13 14:11:18,2,"['PHONE-536', 'App does not open for Android M - Beta']"
+1505036,/OU=Domain Control Validated/CN=svn.company.net,2015-08-13 13:24:34,1,['[gradle-release] prepare for next development iteration']
+1505021,Jimmy,2015-08-13 12:56:59,1,['String update']
+1504972,/OU=Domain Control Validated/CN=svn.company.net,2015-08-13 11:45:19,1,['[gradle-release] prepare for next development iteration']
+1504930,Jimmy,2015-08-13 11:11:29,1,['PHONE-549']
+1504897,Jimmy,2015-08-13 10:34:01,1,['Removed notification icons.']
+1504896,Jimmy,2015-08-13 10:33:33,1,['Modified']
+1504892,Jimmy,2015-08-13 10:21:05,1,['String updated']
+1504678,Jimmy,2015-08-12 17:59:37,1,['Removed temporary check for status']
+1504521,Jimmy,2015-08-12 15:08:00,1,['PHONE-799 - Modified the layout of the button to wrap the text']
+1504447,Jimmy,2015-08-12 13:23:37,1,['LINT FIX']
+1504404,Jimmy,2015-08-12 12:19:41,1,['PHONE-295']
+1504391,Jimmy,2015-08-12 12:08:41,1,['Added migration activity']
+1504316,Jimmy,2015-08-12 10:29:11,2,"['PHONE-455 - Merged from trunk', 'Added migration status screen']"
+1504239,Jimmy,2015-08-12 08:26:25,1,['Added backup status']
+1503167,Jimmy,2015-08-10 14:30:21,1,['Added strings as translated for phraseapp']
+1503160,Jimmy,2015-08-10 14:25:22,1,['Added strings as translated for phraseapp']
+1503152,Jimmy,2015-08-10 14:06:28,1,['Added strings as translated for phraseapp']
+1503149,Jimmy,2015-08-10 14:01:26,1,['Added strings as translated for phraseapp']
+1502449,Jimmy,2015-08-07 13:55:01,1,['Removed unused import']
+1502425,Jimmy,2015-08-07 13:29:04,1,['PHONE-434 Changed Slide Menu changed to Phone Locker']
+1502023,Thomas,2015-08-06 16:44:44,1,['Remove sliding menu header']
+1501699,/OU=Domain Control Validated/CN=svn.company.net,2015-08-06 10:00:39,1,['[gradle-release] prepare for next development iteration']
+1501400,Thomas,2015-08-05 15:58:41,1,"[""Share optimisation, don't do thumbnails request for non media items""]"
+1501345,Thomas,2015-08-05 14:43:58,1,['PHONE-551: Phone 2.0 - Push notification is starting download of the shared file']
+1501337,Jimmy,2015-08-05 14:30:09,1,['PHONE-681']
+1501323,Jimmy,2015-08-05 14:16:44,1,['PHONE-549 - Suppressed view when not data is available']
+1501134,Thomas,2015-08-05 10:36:03,1,['Exclude non en and ldpi resources from client-att client']
+1500801,Thomas,2015-08-04 16:34:43,1,['Removed unused contacts related classes']
+1500768,Thomas,2015-08-04 16:00:51,1,['Removed unused BackupNowActivity']
+1500697,Thomas,2015-08-04 14:47:30,1,['PHONE-651: Phone 2.0 - Add files pop up is not displayed as expected when we try to add more files to share']
+1500688,Thomas,2015-08-04 14:31:44,1,['PHONE-654: Phone 2.0 - App is crashing when we double tap on device back key when favoriting/unfavoriting content is in progress.']
+1500683,Jimmy,2015-08-04 14:27:27,1,['Lint modification']
+1500676,Jimmy,2015-08-04 14:16:37,1,['Lint modification']
+1500671,Jimmy,2015-08-04 14:11:09,1,['Lint modification']
+1500665,Thomas,2015-08-04 14:04:57,1,"[""PHONE-591: Phone 2.0 - 'Report Abusive Content' is available in Share tab.""]"
+1500664,Jimmy,2015-08-04 14:04:25,1,['Lint modification']
+1500656,Jimmy,2015-08-04 13:54:05,1,['PHONE-363 - Updated notification icon']
+1500654,Thomas,2015-08-04 13:49:54,1,"['PHONE-552: Phone 2.0 - ""About"" not implemented in settings.']"
+1500629,Jimmy,2015-08-04 13:17:59,1,['Build fix']
+1500628,Jimmy,2015-08-04 13:09:04,1,['PHONE-613 - Removed tile']
+1500605,Thomas,2015-08-04 12:06:10,1,"['PHONE-623: Phone 2.0 - ""Remove from Playlist"" pop up is displayed when user try to remove Photo or video from an album.']"
+1500577,Thomas,2015-08-04 11:38:01,1,['Removed unused UserChanged']
+1500567,Thomas,2015-08-04 11:32:33,1,['Removed unused ContactsActivity']
+1500550,Jimmy,2015-08-04 11:20:26,1,['PHONE-547 - Added rounded buttons accross the board']
+1500540,Thomas,2015-08-04 11:11:54,1,['Removed unused']
+1500536,Thomas,2015-08-04 11:04:57,1,"['Removed specific VZW provisioning_flow_enabled , contacts clean up and contacts history']"
+1499589,Thomas,2015-07-31 14:45:12,1,['Removed unused resources']
+1499580,Thomas,2015-07-31 14:38:41,1,['Removed NAB QuotaManagement feature']
+1499551,Thomas,2015-07-31 14:02:01,1,"['PHONE-578: ""/n"" showing up in string rather than text moving to new line']"
+1499540,Thomas,2015-07-31 13:53:01,1,['Removed Reliance specific login and download classes']
+1499498,Thomas,2015-07-31 13:13:05,1,['Set mct.cloud.fallback to false']
+1499392,Thomas,2015-07-31 11:25:54,1,['PHONE-418: Login errors need to be handled.']
+1499015,/OU=Domain Control Validated/CN=svn.company.net,2015-07-30 15:31:45,1,['[gradle-release] prepare for next development iteration']
+1498989,Thomas,2015-07-30 15:01:09,1,"['Put translatable=""false""']"
+1498978,Thomas,2015-07-30 14:50:17,1,['Updated icon.png']
+1498977,Thomas,2015-07-30 14:49:48,1,['Fixing libpng warning: iCCP: Not recognizing known sRGB profile that has been edited']
+1498965,Thomas,2015-07-30 14:39:58,1,['Added ignores UnusedResources']
+1498952,Thomas,2015-07-30 14:33:20,1,['Removed unused strings']
+1498934,Thomas,2015-07-30 14:09:42,2,"['PHONE-450: Include Phone strings.xml file in final build before FAT', 'Moved nab_account_type, dataclasses, dataclasses_extended_pcloud and dataclasses_extended_mct into configuration']"
+1498787,/OU=Domain Control Validated/CN=svn.company.net,2015-07-30 10:43:33,1,['[gradle-release] prepare for next development iteration']
+1498744,Thomas,2015-07-30 09:58:03,1,['Changed release email subject']
+1498709,Thomas,2015-07-30 09:05:21,1,"['PHONE-423: External web addresses for auth, upgrade and logout need to be retrieved from SNC.']"
+1498319,Thomas,2015-07-29 14:46:30,1,['Update prod values']
+1498300,Thomas,2015-07-29 14:20:59,1,['Set up correct prod endpoints']
+1498083,Thomas,2015-07-29 10:06:55,1,['PHONE-340: Phone 2.0 - PUSH Notification are not working - DEV / API']
+1497536,Thomas,2015-07-28 10:22:46,1,['PHONE-491: Phone - Countly End Points']
+1497472,Thomas,2015-07-28 08:38:12,1,['Set gap strategy to GAP_HANDLING_NONE']
+1497063,Nicky,2015-07-27 13:01:18,3,"['finalisation of ANDINT-3395;', 'Potential NPE fixed.', '']"
+1496931,Thomas,2015-07-27 10:10:44,1,['PHONE-471: Phone - Shadow ro right of Logo']
+1496908,Thomas,2015-07-27 09:26:01,1,['PHONE-478: PHONE 2.0 - Homescreen Timeline should be bolded']
+1496519,Thomas,2015-07-24 16:13:21,1,"['Added QA Tested to the jira report, revert settings.gradle']"
+1496513,Thomas,2015-07-24 16:00:58,1,['Wrong commit']
+1496435,/OU=Domain Control Validated/CN=svn.company.net,2015-07-24 14:43:57,1,['[gradle-release] prepare for next development iteration']
+1496285,Thomas,2015-07-24 11:49:13,1,['Changed project jira key']
+1496265,Thomas,2015-07-24 11:27:05,1,"['PHONE-397: Phone 2.0 - ""Content found"" notification does not pop up.']"
+1496231,Thomas,2015-07-24 10:45:10,1,"['PHONE-466: Phone 2.0 - ""MigrationInfo"" Text appears frequently went navigate to ""what to back up"".']"
+1496204,Thomas,2015-07-24 09:43:16,1,"['PHONE-434: PHONE 2.0 - Slide menu title is ""Personal Cloud""']"
+1496201,Thomas,2015-07-24 09:37:34,1,['PHONE-436: Phone - Disable TV Beaming']
+1496198,Thomas,2015-07-24 09:30:51,2,"['PHONE-465: Phone 2.0 - App Crashes after first launch.', 'PHONE-464: Phone 2.0 - App Crashes when you navigate to Share tab.']"
+1495947,Thomas,2015-07-23 16:09:42,1,['Moved app recommendations icons into client']
+1495875,/OU=Domain Control Validated/CN=svn.company.net,2015-07-23 15:00:50,1,['[gradle-release] prepare for next development iteration']
+1495841,Thomas,2015-07-23 14:32:43,1,['Removed UnusedResources']
+1495830,Thomas,2015-07-23 14:21:42,1,['Added lint ignore for UnusedResources']
+1495815,Thomas,2015-07-23 14:14:21,1,['Removed unused resources and enabled UnusedResources lint rule']
+1495607,Dave,2015-07-23 09:37:01,1,['merge in the latest changes from 15.2 to revision -r1495084']
+1495598,Thomas,2015-07-23 09:24:09,1,['Removed v11 drawables']
+1495589,Thomas,2015-07-23 09:12:29,1,['Revert deletion']
+1495583,Thomas,2015-07-23 08:48:05,1,['Removed unused assets']
+1495579,Thomas,2015-07-23 08:44:05,1,['Removed unused assets']
+1495354,Thomas,2015-07-22 16:15:58,1,['Optimised assets']
+1495232,Nicky,2015-07-22 14:04:49,2,"['PHONE-401', 'ATTLocker 2.0 - Failed to Re-auth']"
+1494629,Thomas,2015-07-21 14:29:13,1,['Remove wizard images']
+1494572,Jimmy,2015-07-21 13:09:10,1,['Added migration info popup']
+1494569,Jimmy,2015-07-21 12:57:12,1,['Added migration info popup']
+1494523,Jimmy,2015-07-21 11:54:34,1,['Added String overload']
+1494517,Jimmy,2015-07-21 11:45:38,1,['Added migration info parsing']
+1494495,Jimmy,2015-07-21 11:20:23,1,['Added qa config']
+1494003,Jimmy,2015-07-20 12:08:48,1,['PHONE-392']
+1493570,Jimmy,2015-07-17 13:54:22,1,['Modified test case']
+1493569,Jimmy,2015-07-17 13:49:52,1,['Updated migration classes']
+1493563,Jimmy,2015-07-17 13:28:41,1,['Added migration class and tests']
+1493562,Jimmy,2015-07-17 13:27:38,1,['Added migration class and tests']
+1493503,/OU=Domain Control Validated/CN=svn.company.net,2015-07-17 11:58:34,1,['[gradle-release] prepare for next development iteration']
+1493417,Jimmy,2015-07-17 10:14:16,1,['Added configuration for intro screen']
+1493381,Thomas,2015-07-17 08:39:34,1,['Fixed release build.']
+1493269,Nicky,2015-07-16 19:32:25,2,"['PHONE-360', 'Phone 2.0 - Device is not uploading or downloading.']"
+1493202,Thomas,2015-07-16 16:48:08,1,['Removed translatable flag']
+1493081,Jimmy,2015-07-16 14:47:09,1,['PHONE-354']
+1493067,Alan,2015-07-16 14:37:37,2,"['PHONE-350', 'Phone 2.0 - ""Report Abusive Content"" is available.']"
+1493044,Jimmy,2015-07-16 14:02:49,1,['PHONE-348']
+1493036,Jimmy,2015-07-16 13:51:17,1,['PHONE-348']
+1493028,Jimmy,2015-07-16 13:41:50,1,['PHONE-348']
+1492956,Alan,2015-07-16 11:51:46,2,"['PHONE-349', 'Phone 2.0 - ""Invitations and Referrals"" tool is available.']"
+1492955,Alan,2015-07-16 11:48:20,2,"['PHONE-351', 'Phone 2.0 - Home Screen redsign is OFF']"
+1492513,/OU=Domain Control Validated/CN=svn.company.net,2015-07-15 15:46:38,1,['[gradle-release] prepare for next development iteration']
+1492481,Alan,2015-07-15 15:25:12,1,['Phone Locker changes for 15.2 Branch']
+1492470,Jimmy,2015-07-15 15:08:50,1,['Partial code cleanup']
+1492457,Jimmy,2015-07-15 15:02:58,1,['Partial code cleanup']
+1492455,Jimmy,2015-07-15 15:00:04,1,['Partial code cleanup']
+1492414,Jimmy,2015-07-15 14:04:56,1,['Revved']
+1492409,Jimmy,2015-07-15 13:55:46,1,['Added dev build variant']
+1492405,/OU=Domain Control Validated/CN=svn.company.net,2015-07-15 13:49:47,1,['[gradle-release] prepare for next development iteration']
+1492402,Jimmy,2015-07-15 13:48:45,1,['Modified mail template']
+1492399,Jimmy,2015-07-15 13:42:17,1,['Prep for release']
+1492395,Jimmy,2015-07-15 13:30:01,1,['Code cleanup']
+1492330,Jimmy,2015-07-15 11:55:03,1,['Plan management']
+1492308,Jimmy,2015-07-15 11:33:28,1,['Added boolean to upgrade']
+1491912,Jimmy,2015-07-14 14:56:43,1,['Partial code cleanup']
+1491892,Jimmy,2015-07-14 14:40:44,1,['Partial code cleanup']
+1491875,Jimmy,2015-07-14 14:18:59,1,['Partial code cleanup']
+1491866,Jimmy,2015-07-14 14:06:22,1,['Partial code clean']
+1491858,Jimmy,2015-07-14 13:49:51,1,['Removed dead code']
+1491856,Jimmy,2015-07-14 13:42:45,1,['modified chsettings content provider for at&t']
+1491802,Jimmy,2015-07-14 12:25:40,1,['Authentication for locker']
+1491445,Thomas,2015-07-13 16:29:13,1,['Removed Ril classes']
+1491442,Thomas,2015-07-13 16:22:25,1,['Removed Ril classes']
+1491435,Thomas,2015-07-13 16:17:26,1,['Correct url and tag name for branch tagging']
+1491428,Thomas,2015-07-13 16:12:14,1,['Use 15.2.30.x versioning scheme for branch']
+1491425,Thomas,2015-07-13 16:08:55,1,['Removed old TV functionality']
+1491421,Thomas,2015-07-13 16:03:32,1,['Removed old TV functionality']
+1491420,Thomas,2015-07-13 16:00:35,1,['Removed old TV functionality']
+1491333,Jimmy,2015-07-13 13:59:14,1,['directed the auth callback to point at the AtpAuthActivity class']
+1491323,Jimmy,2015-07-13 13:48:50,1,['Added application identifier to auth call']
+1491315,Jimmy,2015-07-13 13:06:21,1,['Added web UI for auth']
+1491272,Thomas,2015-07-13 11:52:09,1,['Added ignorance']
+1491254,Alan,2015-07-13 11:32:02,1,['icon renamed as ic_launcher.png']
+1491229,Jimmy,2015-07-13 11:03:48,1,"['Added configuration for web auth, plan management and logout']"
+1491146,Thomas,2015-07-13 09:21:48,1,['Rename folder']
